@@ -3,6 +3,7 @@
    =================================== */
 
 /* About Hero Section */
+<!-- <link rel="stylesheet" href="css/styles.css"> -->
 .about-hero {
     padding: 5rem 0;
     background-color: var(--color-secondary);
@@ -304,4 +305,5 @@
 .nav-menu a.active {
     color: var(--color-primary);
     font-weight: 600;
+
 }
