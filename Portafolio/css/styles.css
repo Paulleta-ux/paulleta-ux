@@ -1,6 +1,7 @@
 /* ===================================
    Variables CSS
    =================================== */
+<!-- <link rel="stylesheet" href="css/styles.css"> -->
 :root {
     /* Colores principales */
     --color-primary: #6C5933;
@@ -721,4 +722,5 @@ button {
         width: 32px;
         height: 32px;
     }
+
 }
