@@ -1,6 +1,7 @@
 // ===================================
 // Scroll to Top Button
 // ===================================
+<!-- <script src="js/script.js"></script> -->
 const scrollToTopBtn = document.getElementById('scrollToTop');
 
 // Mostrar/ocultar botón según scroll
@@ -194,4 +195,5 @@ function initializeApp() {
 // ===================================
 document.querySelectorAll('a[target="_blank"]').forEach(link => {
     link.rel = 'noopener noreferrer';
+
 });
